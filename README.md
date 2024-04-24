@@ -15,7 +15,9 @@
  2. Ffmpeg js library(encoding video into various resolutions).
  3. Bootstrap (Front-end framework).
 
- ## App interface
+ # App interface
+
+ ## Demo
  ![image](https://github.com/Bornmajor/optivideo/assets/98744068/e0f84fce-b6c3-414c-a720-61c3a116243c)
 
 
