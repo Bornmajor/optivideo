@@ -20,4 +20,14 @@
  ## Demo
  ![image](https://github.com/Bornmajor/optivideo/assets/98744068/e0f84fce-b6c3-414c-a720-61c3a116243c)
 
+ ## Built in player
+ ![image](https://github.com/Bornmajor/optivideo/assets/98744068/173da243-cccb-469b-aa7b-eca2417a4812)
+ ![image](https://github.com/Bornmajor/optivideo/assets/98744068/db3d5643-a794-48de-b4e7-13ccd27e1599)
+
+
+
+ ## Dashboard
+ ![image](https://github.com/Bornmajor/optivideo/assets/98744068/b00dc721-c3fe-412d-9f07-df9fc0c16ca5)
+
+
 
