@@ -1,4 +1,6 @@
 # Optivideo app
+![image](https://github.com/Bornmajor/optivideo/assets/98744068/ec59f4e8-c299-45f5-a1af-3f634bd7cead)
+
 ## Features
 1. Inbuilt html5 video player.
 2. Video encoding & transcoding.
