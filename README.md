@@ -22,7 +22,8 @@
  # App interface
 
  ## Demo
- ![image](https://github.com/Bornmajor/optivideo/assets/98744068/e0f84fce-b6c3-414c-a720-61c3a116243c)
+
+<img src="https://github.com/Bornmajor/optivideo/assets/98744068/e0f84fce-b6c3-414c-a720-61c3a116243c" width="600px"/>
 
  ## Built in player
 
@@ -35,8 +36,11 @@
 
 
  ## Dashboard
- ![image](https://github.com/Bornmajor/optivideo/assets/98744068/b00dc721-c3fe-412d-9f07-df9fc0c16ca5)
-![image](https://github.com/Bornmajor/optivideo/assets/98744068/96deb803-773d-4fb3-93b0-559cdda7f62b)
+ ![image]()
+ <img src="https://github.com/Bornmajor/optivideo/assets/98744068/b00dc721-c3fe-412d-9f07-df9fc0c16ca5" width="600px"/>
+ <img src="https://github.com/Bornmajor/optivideo/assets/98744068/96deb803-773d-4fb3-93b0-559cdda7f62b" width="600px"/>
+
+
 
 
 
