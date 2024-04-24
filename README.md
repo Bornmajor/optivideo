@@ -30,10 +30,9 @@
 
 
 
-
-
  ## Dashboard
  ![image](https://github.com/Bornmajor/optivideo/assets/98744068/b00dc721-c3fe-412d-9f07-df9fc0c16ca5)
+![image](https://github.com/Bornmajor/optivideo/assets/98744068/96deb803-773d-4fb3-93b0-559cdda7f62b)
 
 
 
