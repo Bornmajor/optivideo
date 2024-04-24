@@ -2,7 +2,7 @@
 ![image](https://github.com/Bornmajor/optivideo/assets/98744068/ec59f4e8-c299-45f5-a1af-3f634bd7cead)
 
 ## Features
- <img src="https://github.com/Bornmajor/optivideo/assets/98744068/a43bdee4-52b1-4d82-ac23-02df5742e27e" width="600px"/>
+<img src="https://github.com/Bornmajor/optivideo/assets/98744068/a43bdee4-52b1-4d82-ac23-02df5742e27e" width="600px"/>
 
 1. Inbuilt optimized html5 video player(Spark player).
 2. Video encoding & transcoding.
@@ -36,7 +36,7 @@
 
 
  ## Dashboard
- ![image]()
+
  <img src="https://github.com/Bornmajor/optivideo/assets/98744068/b00dc721-c3fe-412d-9f07-df9fc0c16ca5" width="600px"/>
  <img src="https://github.com/Bornmajor/optivideo/assets/98744068/96deb803-773d-4fb3-93b0-559cdda7f62b" width="600px"/>
 
