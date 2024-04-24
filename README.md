@@ -2,6 +2,8 @@
 ![image](https://github.com/Bornmajor/optivideo/assets/98744068/ec59f4e8-c299-45f5-a1af-3f634bd7cead)
 
 ## Features
+![image](https://github.com/Bornmajor/optivideo/assets/98744068/a43bdee4-52b1-4d82-ac23-02df5742e27e)
+
 1. Inbuilt optimized html5 video player(Spark player).
 2. Video encoding & transcoding.
 3. Passwordless authentication (verification via 3-third party)
