@@ -24,8 +24,10 @@
  ## Demo
 
 <img src="https://github.com/Bornmajor/optivideo/assets/98744068/e0f84fce-b6c3-414c-a720-61c3a116243c" width="600px"/>
+<video src="https://github.com/Bornmajor/optivideo/assets/98744068/021ce84c-c0b7-4823-b73b-08f03ef2641b"  width="600px"></video>
 
  ## Built in player
+
 
  <div style="display:flex;">
  <img src="https://github.com/Bornmajor/optivideo/assets/98744068/5dd6ae13-1714-4f4e-b8ac-8649994dd7d8" width="500px"/>
