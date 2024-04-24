@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cloudinary/url-gen": "^1.19.0"
+  }
+}

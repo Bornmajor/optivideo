@@ -1,0 +1,25 @@
+{
+    "name": "osbor/optivideo",
+    "autoload": {
+        "psr-4": {
+            "Osbor\\Optivideo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osborn Maja",
+            "email": "98744068+Bornmajor@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "cloudinary/cloudinary_php": "^2",
+        "php-http/guzzle7-adapter": "^1.0",
+        "nyholm/psr7": "^1.8",
+        "mailersend/mailersend": "^0.21.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
