@@ -21,8 +21,12 @@
  ![image](https://github.com/Bornmajor/optivideo/assets/98744068/e0f84fce-b6c3-414c-a720-61c3a116243c)
 
  ## Built in player
- ![image](https://github.com/Bornmajor/optivideo/assets/98744068/173da243-cccb-469b-aa7b-eca2417a4812)
- ![image](https://github.com/Bornmajor/optivideo/assets/98744068/db3d5643-a794-48de-b4e7-13ccd27e1599)
+
+ <div style="display:flex;">
+ <img src="https://github.com/Bornmajor/optivideo/assets/98744068/173da243-cccb-469b-aa7b-eca2417a4812" width="500px"/>
+ <img src="https://github.com/Bornmajor/optivideo/assets/98744068/db3d5643-a794-48de-b4e7-13ccd27e1599" width="500px"/>
+ </div>
+
 
 
 
