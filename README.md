@@ -1,4 +1,6 @@
 # Optivideo app
+## This web application optimizes video streams to ensure smooth playback for users. It is powered by Adaptive Bitrate (ABR) algorithms, which dynamically adjust video quality based on the user's network conditions and device capabilities, delivering an optimal viewing experience.
+
 ![image](https://github.com/Bornmajor/optivideo/assets/98744068/ec59f4e8-c299-45f5-a1af-3f634bd7cead)
 
 ## Features
